@@ -1,14 +1,14 @@
 {
-  "name": "static-site",
+  "name": "read-me-generator-3001",
   "version": "1.0.0",
-  "description": "",
+  "description": "create a readMe using cli application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
-  "author": "",
+  "author": "Frank Sabogal",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
+    "inquirer": "^8.2.5"
   }
 }
